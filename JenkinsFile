@@ -1,0 +1,5 @@
+node {
+    checkout scm 
+    git credentialsId: '4a6c94c8-f08c-4339-8b81-83e868f94e9b', url: 'https://github.com/manikandanms1/Test.git'
+    /* .. snip .. */
+}
